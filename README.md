@@ -11,6 +11,10 @@ The objective of this project was to establish a strong foundation in basic netw
 ## Tools Used
 - Cisco Packet Tracer
 
+## Network Topology 
+![1](https://github.com/user-attachments/assets/cbae0ca5-05ac-4ab0-9e03-28c192f699d3)
+
+
 ## Steps
 
 ### 1. Network Topology Setup
