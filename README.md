@@ -3,7 +3,7 @@
 ## 📸 Project Screenshots
 Click [here](https://github.com/Travis-N-W/Cisco-Packet-Tracer/tree/main/screenshots) to view all screenshots.
 
-## Project Objective
+## Brief Objective
 The objective of this project was to establish a strong foundation in basic networking skills, providing hands-on experience in managing and securing a network environment. This setup allowed for the exploration of fundamental networking concepts, technical knowledge in device configuration, and an understanding of network security in a controlled lab environment using Cisco Packet Tracer.
 
 ## Skills Learned
